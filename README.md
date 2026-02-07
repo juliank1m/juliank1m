@@ -18,36 +18,6 @@ If something looks unfinished, it probably is. Lots going on!
 
 ---
 
-## Projects I care about
-
-### 🧗 PyClimb  
-An interactive Python learning platform focused on clarity and progression rather than flashy gamification.
-
-This is a long-term project where I experiment with how people learn and how software can support that.
-
----
-
-### 🌐 juliankim.dev  
-My personal website and a small playground for design and deployment ideas.
-
-It’s where I document what I’m working on and try out layouts, typography, and UI ideas without pressure.
-
----
-
-### 🎮 MonoGame Experiments  
-Game projects built with MonoGame.
-
-These projects help me understand game loops, rendering, input systems, and performance — more about learning than shipping.
-
----
-
-### 🤖 PokéRogue AI Environment (WIP)  
-A work-in-progress reinforcement learning environment in PokéRogue.
-
-I’m using this to learn about environment design, state representation, and how agents interact with complex systems.
-
----
-
 ## Tools I use
 
 **Languages**  
