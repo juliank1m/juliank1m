@@ -4,7 +4,6 @@ I’m a Software Engineering student at the University of Waterloo who enjoys bu
 
 This is where I experiment, break ideas, and turn curiosity into projects.
 
----
 
 ## What you’ll find here
 
@@ -16,30 +15,23 @@ A mix of:
 
 If something looks unfinished, it probably is. Lots going on!
 
----
 
 ## Tools I use
 
 **Languages**  
-Python, TypeScript, JavaScript, C, C++, C#
+Python, TypeScript, JavaScript, C, C++, C#, Java
 
 **Frameworks & Libraries**  
-React, Next.js, Django, Flask  
+React, Next.js, Django  
 PyTorch, scikit-learn
 
-**Other**  
-Linux, Git, Docker  
-Low-level programming and performance-focused design
-
----
 
 ## A little background
 
 - Software Engineering @ University of Waterloo
-- Former firmware dev @ Electrium Mobility
+- Former firmware dev @ Electrium Mobility - Fall '25
 - Former competitive snowboard cross racer
 
----
 
 ## Say hi
 
