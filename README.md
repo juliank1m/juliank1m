@@ -1,41 +1,29 @@
-# Hey, I’m Julian 👋
+# Hey, I’m Julian Kim 👋
 
-I’m a Software Engineering student at the University of Waterloo who enjoys building things, learning how they work, and slowly making them better.
+I’m a **Software Engineering student at the University of Waterloo**.
 
-This is where I experiment, break ideas, and turn curiosity into projects.
+I’m especially interested in building at the intersection of:
+- **Full-stack software engineering**
+- **Data science & machine learning**
 
+## Skills
 
-## What you’ll find here
+### Core
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-A mix of:
-- personal projects that grew beyond their original scope  
-- experiments in systems, games, and machine learning  
-- tools I’m building because I they seemed fun to build or were required for an issue I came across
-- works-in-progress that are still finding their shape  
+## Connect with me
 
-If something looks unfinished, it probably is. Lots going on!
-
-
-## Tools I use
-
-**Languages**  
-Python, TypeScript, JavaScript, C, C++, C#, Java
-
-**Frameworks & Libraries**  
-React, Next.js, Django  
-PyTorch, scikit-learn
-
-
-## A little background
-
-- Software Engineering @ University of Waterloo
-- Former firmware dev @ Electrium Mobility - Fall '25
-- Former competitive snowboard cross racer
-
-
-## Say hi
-
-- Website: https://juliankim.dev  
-- LinkedIn: https://www.linkedin.com/in/juliankim
-
-Feel free to look around. Hope something here interests you!
+[![Website](https://img.shields.io/badge/Website-juliankim.dev-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://juliankim.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-juliankim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliankim)
+[![GitHub](https://img.shields.io/badge/GitHub-juliank1m-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juliank1m)
