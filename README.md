@@ -1,14 +1,10 @@
 ### Hey, I’m Julian Kim 👋
 
-Software Engineering @ uWaterloo
+swe @ uwaterloo
 
-interested in building with:
+interested in building in **full-stack** + **data science & ML**
 
->**Full-stack software engineering**
 
->**Data science & machine learning**
-
-### Core Skills
 > **Languages:**
 >
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -41,7 +37,8 @@ interested in building with:
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Connect with me
-[![Website](https://img.shields.io/badge/Website-juliankim.dev-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://juliankim.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-juliank1m-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliankim)
+### Find me elsewhere:
+[![Website](https://img.shields.io/badge/Website-juliankim.dev-9bb5f7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://juliankim.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-juliank1m-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliankim)
 [![GitHub](https://img.shields.io/badge/GitHub-juliank1m-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juliank1m)
+[![Discord](https://img.shields.io/badge/Discord-juliank1m-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/734497745435492413)
