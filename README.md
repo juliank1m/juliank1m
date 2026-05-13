@@ -2,7 +2,7 @@
 
 swe @ uwaterloo
 
-interested in building in **full-stack** + **data science & ML**
+interested in building in **full-stack** + **ai**
 
 
 > **Languages:**
