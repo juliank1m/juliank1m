@@ -21,8 +21,8 @@
 <!-- ============================================================ -->
 <p align="center">
   <a href="https://juliankim.dev"><img src="https://img.shields.io/badge/website-2A1F5C?style=for-the-badge&logo=googlechrome&logoColor=2A1F5C&labelColor=1d1840&color=A8BAF7" /></a>&nbsp;
-  <a href="mailto:hello@juliankim.dev"><img src="https://img.shields.io/badge/email-2A1F5C?style=for-the-badge&logo=gmail&logoColor=2A1F5C&labelColor=1d1840&color=F9C4C4" /></a>&nbsp;
-  <a href="https://linkedin.com/in/juliankim"><img src="https://img.shields.io/badge/linkedin-2A1F5C?style=for-the-badge&logo=linkedin&logoColor=2A1F5C&labelColor=1d1840&color=D4C4F7" /></a>&nbsp;
+  <a href="mailto:juliankim.dev@gmail.com"><img src="https://img.shields.io/badge/email-2A1F5C?style=for-the-badge&logo=gmail&logoColor=2A1F5C&labelColor=1d1840&color=F9C4C4" /></a>&nbsp;
+  <a href="https://linkedin.com/in/juliank1m"><img src="https://img.shields.io/badge/linkedin-2A1F5C?style=for-the-badge&logo=linkedin&logoColor=2A1F5C&labelColor=1d1840&color=D4C4F7" /></a>&nbsp;
   <a href="https://devpost.com/juliank1m"><img src="https://img.shields.io/badge/devpost-2A1F5C?style=for-the-badge&logo=devpost&logoColor=2A1F5C&labelColor=1d1840&color=B8ECD5" /></a>
 </p>
 
