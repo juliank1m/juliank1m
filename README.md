@@ -91,22 +91,6 @@
 </p>
 
 <!-- ============================================================ -->
-<!-- ACHIEVEMENTS · custom pixel-icon row with live data            -->
-<!-- ============================================================ -->
-
-<table align="center">
-<tr>
-  <td align="center" width="120"><img src="./assets/icons/star.svg" width="40" /><br /><sub><b>STARS</b><br />48</sub></td>
-  <td align="center" width="120"><img src="./assets/icons/commit.svg" width="40" /><br /><sub><b>COMMITS</b><br />510</sub></td>
-  <td align="center" width="120"><img src="./assets/icons/pr.svg" width="40" /><br /><sub><b>PRs</b><br />26</sub></td>
-  <td align="center" width="120"><img src="./assets/icons/issue.svg" width="40" /><br /><sub><b>ISSUES</b><br />11</sub></td>
-  <td align="center" width="120"><img src="./assets/icons/repo.svg" width="40" /><br /><sub><b>REPOS</b><br />26</sub></td>
-  <td align="center" width="120"><img src="./assets/icons/follower.svg" width="40" /><br /><sub><b>FOLLOWERS</b><br />12</sub></td>
-  <td align="center" width="120"><img src="./assets/icons/fire.svg" width="40" /><br /><sub><b>STREAK</b><br />14d</sub></td>
-</tr>
-</table>
-
-<!-- ============================================================ -->
 <!-- SNAKE                                                         -->
 <!-- ============================================================ -->
 
