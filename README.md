@@ -1,44 +1,119 @@
-### Hey, I’m Julian Kim 👋
+<!-- ====================================================================== -->
+<!--                      JULIAN KIM · GITHUB PROFILE                       -->
+<!-- ====================================================================== -->
 
-swe @ uwaterloo
+<p align="center">
+  <img src="./assets/hero.png" width="100%" alt="Julian Kim · Software Engineer" />
+</p>
 
-interested in building in **full-stack** + **ai**
+<!-- ============================================================ -->
+<!-- LIVE STAT BADGES · auto-updating from github & shields.io     -->
+<!-- ============================================================ -->
+<p align="center">
+  <a href="https://github.com/juliank1m"><img src="https://komarev.com/ghpvc/?username=juliank1m&label=PROFILE+VIEWS&color=A8BAF7&style=for-the-badge" alt="profile views" /></a>&nbsp;
+  <img src="https://img.shields.io/github/stars/juliank1m?style=for-the-badge&logo=github&logoColor=2A1F5C&label=STARS&labelColor=1d1840&color=B8ECD5" alt="stars" />&nbsp;
+  <img src="https://img.shields.io/github/followers/juliank1m?style=for-the-badge&logo=github&logoColor=2A1F5C&label=FOLLOWERS&labelColor=1d1840&color=D4C4F7" alt="followers" />&nbsp;
+  <img src="https://img.shields.io/badge/REPOS-26-2A1F5C?style=for-the-badge&labelColor=1d1840&color=F7E89C" alt="repos" />
+</p>
 
+<!-- ============================================================ -->
+<!-- FIND ME ON · centered row below the hero badges                -->
+<!-- ============================================================ -->
+<p align="center">
+  <a href="https://juliankim.dev"><img src="https://img.shields.io/badge/website-2A1F5C?style=for-the-badge&logo=googlechrome&logoColor=2A1F5C&labelColor=1d1840&color=A8BAF7" /></a>&nbsp;
+  <a href="mailto:hello@juliankim.dev"><img src="https://img.shields.io/badge/email-2A1F5C?style=for-the-badge&logo=gmail&logoColor=2A1F5C&labelColor=1d1840&color=F9C4C4" /></a>&nbsp;
+  <a href="https://linkedin.com/in/juliankim"><img src="https://img.shields.io/badge/linkedin-2A1F5C?style=for-the-badge&logo=linkedin&logoColor=2A1F5C&labelColor=1d1840&color=D4C4F7" /></a>&nbsp;
+  <a href="https://devpost.com/juliank1m"><img src="https://img.shields.io/badge/devpost-2A1F5C?style=for-the-badge&logo=devpost&logoColor=2A1F5C&labelColor=1d1840&color=B8ECD5" /></a>
+</p>
 
-> **Languages:**
->
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C/C++](https://img.shields.io/badge/-C/C++-lightpink?style=for-the-badge&logo=c&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<!-- ============================================================ -->
+<!-- INTRO BLOCK · toolbox on left, pixel art on right              -->
+<!-- ============================================================ -->
+<table>
+<tr>
+<td width="62%" valign="top">
 
-> **Web dev:**
->
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+## <img src="./assets/icons/toolbox.svg" width="32" align="left" /> &nbsp; Toolbox
 
-> **Data + ML:**
-> 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+**Languages**
 
-> **DevOps / Infra:**
->
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://img.shields.io/badge/Python-2A1F5C?style=for-the-badge&logo=python&logoColor=2A1F5C&labelColor=1d1840&color=B8ECD5" />
+<img src="https://img.shields.io/badge/TypeScript-2A1F5C?style=for-the-badge&logo=typescript&logoColor=2A1F5C&labelColor=1d1840&color=D4C4F7" />
+<img src="https://img.shields.io/badge/JavaScript-2A1F5C?style=for-the-badge&logo=javascript&logoColor=2A1F5C&labelColor=1d1840&color=F7E89C" />
+<img src="https://img.shields.io/badge/C++-2A1F5C?style=for-the-badge&logo=cplusplus&logoColor=2A1F5C&labelColor=1d1840&color=F9C4C4" />
+<img src="https://img.shields.io/badge/Java-2A1F5C?style=for-the-badge&logo=openjdk&logoColor=2A1F5C&labelColor=1d1840&color=F7E89C" />
+<img src="https://img.shields.io/badge/SQL-2A1F5C?style=for-the-badge&logo=postgresql&logoColor=2A1F5C&labelColor=1d1840&color=A8BAF7" />
 
-### Find me elsewhere:
-[![Website](https://img.shields.io/badge/Website-juliankim.dev-9bb5f7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://juliankim.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-juliank1m-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliankim)
-[![GitHub](https://img.shields.io/badge/GitHub-juliank1m-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juliank1m)
-[![Discord](https://img.shields.io/badge/Discord-juliank1m-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/734497745435492413)
+**Web & Product**
+
+<img src="https://img.shields.io/badge/React-2A1F5C?style=for-the-badge&logo=react&logoColor=2A1F5C&labelColor=1d1840&color=A8BAF7" />
+<img src="https://img.shields.io/badge/Next.js-2A1F5C?style=for-the-badge&logo=nextdotjs&logoColor=2A1F5C&labelColor=1d1840&color=D4C4F7" />
+<img src="https://img.shields.io/badge/Tailwind-2A1F5C?style=for-the-badge&logo=tailwindcss&logoColor=2A1F5C&labelColor=1d1840&color=A8BAF7" />
+<img src="https://img.shields.io/badge/FastAPI-2A1F5C?style=for-the-badge&logo=fastapi&logoColor=2A1F5C&labelColor=1d1840&color=B8ECD5" />
+<img src="https://img.shields.io/badge/Node-2A1F5C?style=for-the-badge&logo=nodedotjs&logoColor=2A1F5C&labelColor=1d1840&color=B8ECD5" />
+<img src="https://img.shields.io/badge/Postgres-2A1F5C?style=for-the-badge&logo=postgresql&logoColor=2A1F5C&labelColor=1d1840&color=A8BAF7" />
+<img src="https://img.shields.io/badge/Supabase-2A1F5C?style=for-the-badge&logo=supabase&logoColor=2A1F5C&labelColor=1d1840&color=B8ECD5" />
+
+**Data & AI**
+
+<img src="https://img.shields.io/badge/PyTorch-2A1F5C?style=for-the-badge&logo=pytorch&logoColor=2A1F5C&labelColor=1d1840&color=F9C4C4" />
+<img src="https://img.shields.io/badge/scikit--learn-2A1F5C?style=for-the-badge&logo=scikitlearn&logoColor=2A1F5C&labelColor=1d1840&color=F7E89C" />
+<img src="https://img.shields.io/badge/Pandas-2A1F5C?style=for-the-badge&logo=pandas&logoColor=2A1F5C&labelColor=1d1840&color=D4C4F7" />
+<img src="https://img.shields.io/badge/NumPy-2A1F5C?style=for-the-badge&logo=numpy&logoColor=2A1F5C&labelColor=1d1840&color=A8BAF7" />
+<img src="https://img.shields.io/badge/OpenAI-2A1F5C?style=for-the-badge&logo=openai&logoColor=2A1F5C&labelColor=1d1840&color=B8ECD5" />
+
+</td>
+<td width="38%" valign="top" align="center">
+  <img src="./assets/side.png" width="100%" alt="pixel CN Tower" />
+</td>
+</tr>
+</table>
+
+<!-- ============================================================ -->
+<!-- STATS — live from github                                      -->
+<!-- ============================================================ -->
+
+## <img src="./assets/icons/chart.svg" width="32" align="left" /> &nbsp; Check out my stats
+
+<table>
+<tr>
+<td width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=juliank1m&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=15102e&title_color=F0ECFF&text_color=C8C0F0&icon_color=EC8A8A&ring_color=9A82E5" />
+</td>
+<td width="50%">
+  <img src="https://streak-stats.demolab.com?user=juliank1m&hide_border=true&background=15102e&stroke=2a1f5c&ring=9A82E5&fire=EC8A8A&currStreakNum=F0ECFF&currStreakLabel=C8C0F0&sideNums=F0ECFF&sideLabels=C8C0F0&dates=9A82E5" />
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliank1m&layout=compact&hide_border=true&langs_count=8&bg_color=15102e&title_color=F0ECFF&text_color=C8C0F0" />
+</p>
+
+<!-- ============================================================ -->
+<!-- ACHIEVEMENTS · custom pixel-icon row with live data            -->
+<!-- ============================================================ -->
+
+<table align="center">
+<tr>
+  <td align="center" width="120"><img src="./assets/icons/star.svg" width="40" /><br /><sub><b>STARS</b><br />48</sub></td>
+  <td align="center" width="120"><img src="./assets/icons/commit.svg" width="40" /><br /><sub><b>COMMITS</b><br />510</sub></td>
+  <td align="center" width="120"><img src="./assets/icons/pr.svg" width="40" /><br /><sub><b>PRs</b><br />26</sub></td>
+  <td align="center" width="120"><img src="./assets/icons/issue.svg" width="40" /><br /><sub><b>ISSUES</b><br />11</sub></td>
+  <td align="center" width="120"><img src="./assets/icons/repo.svg" width="40" /><br /><sub><b>REPOS</b><br />26</sub></td>
+  <td align="center" width="120"><img src="./assets/icons/follower.svg" width="40" /><br /><sub><b>FOLLOWERS</b><br />12</sub></td>
+  <td align="center" width="120"><img src="./assets/icons/fire.svg" width="40" /><br /><sub><b>STREAK</b><br />14d</sub></td>
+</tr>
+</table>
+
+<!-- ============================================================ -->
+<!-- SNAKE                                                         -->
+<!-- ============================================================ -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/juliank1m/juliank1m/output/github-contribution-grid-snake-dark.svg" alt="snake eating my contributions" />
+</p>
+
+<p align="center">
+  <sub>✦ check out <a href="https://juliankim.dev">my website</a> to learn more about me ✦</sub>
+</p>
