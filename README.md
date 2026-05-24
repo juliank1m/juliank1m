@@ -11,8 +11,8 @@
 <!-- ============================================================ -->
 <p align="center">
   <a href="https://github.com/juliank1m"><img src="https://komarev.com/ghpvc/?username=juliank1m&label=PROFILE+VIEWS&color=A8BAF7&style=for-the-badge" alt="profile views" /></a>&nbsp;
-  <img src="https://img.shields.io/github/stars/juliank1m?style=for-the-badge&logo=github&logoColor=2A1F5C&label=STARS&labelColor=1d1840&color=B8ECD5" alt="stars" />&nbsp;
-  <img src="https://img.shields.io/github/followers/juliank1m?style=for-the-badge&logo=github&logoColor=2A1F5C&label=FOLLOWERS&labelColor=1d1840&color=D4C4F7" alt="followers" />&nbsp;
+  <img src="https://img.shields.io/github/stars/juliank1m?style=for-the-badge&logo=github&logoColor=F0ECFF&label=STARS&labelColor=1d1840&color=B8ECD5" alt="stars" />&nbsp;
+  <img src="https://img.shields.io/github/followers/juliank1m?style=for-the-badge&logo=github&logoColor=F0ECFF&label=FOLLOWERS&labelColor=1d1840&color=D4C4F7" alt="followers" />&nbsp;
   <img src="https://img.shields.io/badge/REPOS-26-2A1F5C?style=for-the-badge&labelColor=1d1840&color=F7E89C" alt="repos" />
 </p>
 
@@ -20,10 +20,10 @@
 <!-- FIND ME ON · centered row below the hero badges                -->
 <!-- ============================================================ -->
 <p align="center">
-  <a href="https://juliankim.dev"><img src="https://img.shields.io/badge/website-2A1F5C?style=for-the-badge&logo=googlechrome&logoColor=2A1F5C&labelColor=1d1840&color=A8BAF7" /></a>&nbsp;
-  <a href="mailto:juliankim.dev@gmail.com"><img src="https://img.shields.io/badge/email-2A1F5C?style=for-the-badge&logo=gmail&logoColor=2A1F5C&labelColor=1d1840&color=F9C4C4" /></a>&nbsp;
-  <a href="https://linkedin.com/in/juliank1m"><img src="https://img.shields.io/badge/linkedin-2A1F5C?style=for-the-badge&logo=linkedin&logoColor=2A1F5C&labelColor=1d1840&color=D4C4F7" /></a>&nbsp;
-  <a href="https://devpost.com/juliank1m"><img src="https://img.shields.io/badge/devpost-2A1F5C?style=for-the-badge&logo=devpost&logoColor=2A1F5C&labelColor=1d1840&color=B8ECD5" /></a>
+  <a href="https://juliankim.dev"><img src="https://img.shields.io/badge/website-2A1F5C?style=for-the-badge&logo=googlechrome&logoColor=F0ECFF&labelColor=1d1840&color=A8BAF7" /></a>&nbsp;
+  <a href="mailto:juliankim.dev@gmail.com"><img src="https://img.shields.io/badge/email-2A1F5C?style=for-the-badge&logo=gmail&logoColor=F0ECFF&labelColor=1d1840&color=F9C4C4" /></a>&nbsp;
+  <a href="https://linkedin.com/in/juliank1m"><img src="https://img.shields.io/badge/linkedin-2A1F5C?style=for-the-badge&logo=linkedin&logoColor=F0ECFF&labelColor=1d1840&color=D4C4F7" /></a>&nbsp;
+  <a href="https://devpost.com/juliank1m"><img src="https://img.shields.io/badge/devpost-2A1F5C?style=for-the-badge&logo=devpost&logoColor=F0ECFF&labelColor=1d1840&color=B8ECD5" /></a>
 </p>
 
 <!-- ============================================================ -->
@@ -37,30 +37,30 @@
 
 **Languages**
 
-<img src="https://img.shields.io/badge/Python-2A1F5C?style=for-the-badge&logo=python&logoColor=2A1F5C&labelColor=1d1840&color=B8ECD5" />
-<img src="https://img.shields.io/badge/TypeScript-2A1F5C?style=for-the-badge&logo=typescript&logoColor=2A1F5C&labelColor=1d1840&color=D4C4F7" />
-<img src="https://img.shields.io/badge/JavaScript-2A1F5C?style=for-the-badge&logo=javascript&logoColor=2A1F5C&labelColor=1d1840&color=F7E89C" />
-<img src="https://img.shields.io/badge/C++-2A1F5C?style=for-the-badge&logo=cplusplus&logoColor=2A1F5C&labelColor=1d1840&color=F9C4C4" />
-<img src="https://img.shields.io/badge/Java-2A1F5C?style=for-the-badge&logo=openjdk&logoColor=2A1F5C&labelColor=1d1840&color=F7E89C" />
-<img src="https://img.shields.io/badge/SQL-2A1F5C?style=for-the-badge&logo=postgresql&logoColor=2A1F5C&labelColor=1d1840&color=A8BAF7" />
+<img src="https://img.shields.io/badge/Python-2A1F5C?style=for-the-badge&logo=python&logoColor=F0ECFF&labelColor=1d1840&color=B8ECD5" />
+<img src="https://img.shields.io/badge/TypeScript-2A1F5C?style=for-the-badge&logo=typescript&logoColor=F0ECFF&labelColor=1d1840&color=D4C4F7" />
+<img src="https://img.shields.io/badge/JavaScript-2A1F5C?style=for-the-badge&logo=javascript&logoColor=F0ECFF&labelColor=1d1840&color=F7E89C" />
+<img src="https://img.shields.io/badge/C++-2A1F5C?style=for-the-badge&logo=cplusplus&logoColor=F0ECFF&labelColor=1d1840&color=F9C4C4" />
+<img src="https://img.shields.io/badge/Java-2A1F5C?style=for-the-badge&logo=openjdk&logoColor=F0ECFF&labelColor=1d1840&color=F7E89C" />
+<img src="https://img.shields.io/badge/SQL-2A1F5C?style=for-the-badge&logo=postgresql&logoColor=F0ECFF&labelColor=1d1840&color=A8BAF7" />
 
 **Web & Product**
 
-<img src="https://img.shields.io/badge/React-2A1F5C?style=for-the-badge&logo=react&logoColor=2A1F5C&labelColor=1d1840&color=A8BAF7" />
-<img src="https://img.shields.io/badge/Next.js-2A1F5C?style=for-the-badge&logo=nextdotjs&logoColor=2A1F5C&labelColor=1d1840&color=D4C4F7" />
-<img src="https://img.shields.io/badge/Tailwind-2A1F5C?style=for-the-badge&logo=tailwindcss&logoColor=2A1F5C&labelColor=1d1840&color=A8BAF7" />
-<img src="https://img.shields.io/badge/FastAPI-2A1F5C?style=for-the-badge&logo=fastapi&logoColor=2A1F5C&labelColor=1d1840&color=B8ECD5" />
-<img src="https://img.shields.io/badge/Node-2A1F5C?style=for-the-badge&logo=nodedotjs&logoColor=2A1F5C&labelColor=1d1840&color=B8ECD5" />
-<img src="https://img.shields.io/badge/Postgres-2A1F5C?style=for-the-badge&logo=postgresql&logoColor=2A1F5C&labelColor=1d1840&color=A8BAF7" />
-<img src="https://img.shields.io/badge/Supabase-2A1F5C?style=for-the-badge&logo=supabase&logoColor=2A1F5C&labelColor=1d1840&color=B8ECD5" />
+<img src="https://img.shields.io/badge/React-2A1F5C?style=for-the-badge&logo=react&logoColor=F0ECFF&labelColor=1d1840&color=A8BAF7" />
+<img src="https://img.shields.io/badge/Next.js-2A1F5C?style=for-the-badge&logo=nextdotjs&logoColor=F0ECFF&labelColor=1d1840&color=D4C4F7" />
+<img src="https://img.shields.io/badge/Tailwind-2A1F5C?style=for-the-badge&logo=tailwindcss&logoColor=F0ECFF&labelColor=1d1840&color=A8BAF7" />
+<img src="https://img.shields.io/badge/FastAPI-2A1F5C?style=for-the-badge&logo=fastapi&logoColor=F0ECFF&labelColor=1d1840&color=B8ECD5" />
+<img src="https://img.shields.io/badge/Node-2A1F5C?style=for-the-badge&logo=nodedotjs&logoColor=F0ECFF&labelColor=1d1840&color=B8ECD5" />
+<img src="https://img.shields.io/badge/Postgres-2A1F5C?style=for-the-badge&logo=postgresql&logoColor=F0ECFF&labelColor=1d1840&color=A8BAF7" />
+<img src="https://img.shields.io/badge/Supabase-2A1F5C?style=for-the-badge&logo=supabase&logoColor=F0ECFF&labelColor=1d1840&color=B8ECD5" />
 
 **Data & AI**
 
-<img src="https://img.shields.io/badge/PyTorch-2A1F5C?style=for-the-badge&logo=pytorch&logoColor=2A1F5C&labelColor=1d1840&color=F9C4C4" />
-<img src="https://img.shields.io/badge/scikit--learn-2A1F5C?style=for-the-badge&logo=scikitlearn&logoColor=2A1F5C&labelColor=1d1840&color=F7E89C" />
-<img src="https://img.shields.io/badge/Pandas-2A1F5C?style=for-the-badge&logo=pandas&logoColor=2A1F5C&labelColor=1d1840&color=D4C4F7" />
-<img src="https://img.shields.io/badge/NumPy-2A1F5C?style=for-the-badge&logo=numpy&logoColor=2A1F5C&labelColor=1d1840&color=A8BAF7" />
-<img src="https://img.shields.io/badge/OpenAI-2A1F5C?style=for-the-badge&logo=openai&logoColor=2A1F5C&labelColor=1d1840&color=B8ECD5" />
+<img src="https://img.shields.io/badge/PyTorch-2A1F5C?style=for-the-badge&logo=pytorch&logoColor=F0ECFF&labelColor=1d1840&color=F9C4C4" />
+<img src="https://img.shields.io/badge/scikit--learn-2A1F5C?style=for-the-badge&logo=scikitlearn&logoColor=F0ECFF&labelColor=1d1840&color=F7E89C" />
+<img src="https://img.shields.io/badge/Pandas-2A1F5C?style=for-the-badge&logo=pandas&logoColor=F0ECFF&labelColor=1d1840&color=D4C4F7" />
+<img src="https://img.shields.io/badge/NumPy-2A1F5C?style=for-the-badge&logo=numpy&logoColor=F0ECFF&labelColor=1d1840&color=A8BAF7" />
+<img src="https://img.shields.io/badge/OpenAI-2A1F5C?style=for-the-badge&logo=openai&logoColor=F0ECFF&labelColor=1d1840&color=B8ECD5" />
 
 </td>
 <td width="38%" valign="top" align="center">
