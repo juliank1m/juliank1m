@@ -18,7 +18,7 @@ jobs:
         with:
           github_user_name: juliank1m
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%23EC8A8A&color_dots=%2315102e,%232a1f5c,%235a4abd,%239A82E5,%23D4C4F7
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23B8ECD5&color_dots=%23A8BAF7,%23D4C4F7,%23B8ECD5,%23F7E89C,%23F9C4C4
             dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
