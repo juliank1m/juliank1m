@@ -87,7 +87,7 @@
 </table>
 
 <p align="center">
-  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=juliank1m&layout=compact&hide_border=true&langs_count=8&bg_color=15102e&title_color=F0ECFF&text_color=C8C0F0" />
+  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=juliank1m&layout=compact&hide_border=true&langs_count=8&card_width=500&bg_color=15102e&title_color=F0ECFF&text_color=C8C0F0" />
 </p>
 
 <!-- ============================================================ -->
