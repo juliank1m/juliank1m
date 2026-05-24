@@ -78,7 +78,7 @@
 <table>
 <tr>
 <td width="50%">
-  <img src="https://github-readme-stats.vercel.app/api?username=juliank1m&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=15102e&title_color=F0ECFF&text_color=C8C0F0&icon_color=EC8A8A&ring_color=9A82E5" />
+  <img src="https://gh-readme-stats.vercel.app/api?username=juliank1m&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=15102e&title_color=F0ECFF&text_color=C8C0F0&icon_color=EC8A8A&ring_color=9A82E5" />
 </td>
 <td width="50%">
   <img src="https://streak-stats.demolab.com?user=juliank1m&hide_border=true&background=15102e&stroke=2a1f5c&ring=9A82E5&fire=EC8A8A&currStreakNum=F0ECFF&currStreakLabel=C8C0F0&sideNums=F0ECFF&sideLabels=C8C0F0&dates=9A82E5" />
@@ -87,7 +87,7 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliank1m&layout=compact&hide_border=true&langs_count=8&bg_color=15102e&title_color=F0ECFF&text_color=C8C0F0" />
+  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=juliank1m&layout=compact&hide_border=true&langs_count=8&bg_color=15102e&title_color=F0ECFF&text_color=C8C0F0" />
 </p>
 
 <!-- ============================================================ -->
