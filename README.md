@@ -87,7 +87,7 @@
   <img src="https://gh-readme-stats.vercel.app/api?username=juliank1m&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=15102e&title_color=F0ECFF&text_color=C8C0F0&icon_color=EC8A8A&ring_color=9A82E5" />
 </td>
 <td width="50%">
-  <img src="https://streak-stats.demolab.com?user=juliank1m&hide_border=true&background=15102e&stroke=2a1f5c&ring=9A82E5&fire=EC8A8A&currStreakNum=F0ECFF&currStreakLabel=C8C0F0&sideNums=F0ECFF&sideLabels=C8C0F0&dates=9A82E5" />
+  <img src="https://raw.githubusercontent.com/juliank1m/juliank1m/output/streak-stats.svg" alt="github streak" />
 </td>
 </tr>
 </table>

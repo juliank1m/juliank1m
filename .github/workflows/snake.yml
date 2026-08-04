@@ -21,6 +21,13 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?color_snake=%23D4C4F7&color_dots=%230d1117,%23FCDADA,%23F9C4C4,%23F5A8A8,%23F08C8C
             dist/github-contribution-grid-snake.svg
 
+      - name: cache streak card
+        run: |
+          curl -sS --retry 3 --retry-all-errors --max-time 90 \
+            -o dist/streak-stats.svg \
+            "https://streak-stats.demolab.com?user=juliank1m&hide_border=true&background=15102e&stroke=2a1f5c&ring=9A82E5&fire=EC8A8A&currStreakNum=F0ECFF&currStreakLabel=C8C0F0&sideNums=F0ECFF&sideLabels=C8C0F0&dates=9A82E5"
+          grep -q "<svg" dist/streak-stats.svg
+
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
