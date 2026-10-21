@@ -27,7 +27,6 @@
   <a href="https://devpost.com/juliank1m"><img src="https://img.shields.io/badge/devpost-2A1F5C?style=for-the-badge&logo=devpost&logoColor=F0ECFF&labelColor=1d1840&color=B8ECD5" /></a>
 </p>
 <br>
-<p align="center"><strong>SWE @ Maple Armor</strong></p>
 <br>
 
 <!-- ============================================================ -->
